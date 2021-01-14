@@ -1,0 +1,21 @@
+.Productos{
+    padding: 5px;
+    
+}
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    display: inline-block;
+    margin: 5px;
+}
+
+#mensaje{
+    font-size: 20px;
+    font-weight: bold;
+}
+#btn{
+    margin-top: 5px;
+    margin-left: 5px;
+}
